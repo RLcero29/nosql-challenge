@@ -1,0 +1,2 @@
+This folder contains the resources and code for both the setup and analysis of this challenge. This challenge required me to create, update, and access a database in MongoDB to help answer questions about eating establishments. Some of the setup required updates to add a new restaurant and to change strings of numbers to values.
+After the setup, the second part of the assignment required me to query and filter data to answer some of the questions of which locations to visit and avoid.
